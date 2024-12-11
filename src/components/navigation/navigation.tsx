@@ -79,7 +79,7 @@ const Navigation: FC = () => {
           justifyContent: "center",
           px: { xs: 0, lg: 3 },
           mb: { xs: 3, lg: 0 },
-          fontSize: "15px",
+          fontSize: "13px",
           lineHeight: "6px",
           width: "324px",
           height: "46px",
