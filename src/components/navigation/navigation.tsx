@@ -81,7 +81,7 @@ const Navigation: FC = () => {
           mb: { xs: 3, lg: 0 },
           fontSize: "13px",
           lineHeight: "6px",
-          width: "324px",
+          width: "290px",
           height: "46px",
           borderRadius: "6px",
           backgroundColor: "#00dbe3"
